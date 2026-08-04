@@ -61,17 +61,12 @@ PRODIGY_WD_01/
 ## 📷 Screenshots
 
 ### Desktop View
-
-> Add desktop screenshot
-
-![Desktop](<img width="1881" height="960" alt="image" src="https://github.com/user-attachments/assets/564d46c8-e788-415f-b565-434c28e4bb98" />
+(<img width="1881" height="960" alt="image" src="https://github.com/user-attachments/assets/564d46c8-e788-415f-b565-434c28e4bb98" />
 )
 
 ### Mobile View
 
-> Add mobile screenshot
-
-![Mobile](<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/80b675de-a2ae-4e18-80f9-ef9f23968eae" />
+(<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/80b675de-a2ae-4e18-80f9-ef9f23968eae" />
 )
 
 ---
