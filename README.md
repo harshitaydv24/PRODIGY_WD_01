@@ -8,10 +8,9 @@ A modern, fully responsive landing page built using **HTML**, **CSS**, and **Jav
 
 ## 📸 Preview
 
-> Add your project screenshot here.
 
-<img src="<img width="1880" height="930" alt="image" src="https://github.com/user-attachments/assets/66990c71-ec84-471c-a9e7-9df5e7e5230e" />
-" alt="Responsive Landing Page Preview" <img width="1868" height="929" alt="image" src="https://github.com/user-attachments/assets/526a1e08-09c4-44b9-96e3-daee9645d4c7" />
+<img width="1880" height="930" alt="image" src="https://github.com/user-attachments/assets/66990c71-ec84-471c-a9e7-9df5e7e5230e" />
+Responsive Landing Page Preview" <img width="1868" height="929" alt="image" src="https://github.com/user-attachments/assets/526a1e08-09c4-44b9-96e3-daee9645d4c7" />
 
 
 ---
